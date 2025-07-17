@@ -35,7 +35,7 @@ PICS = (environ.get('PICS', 'https://graph.org/file/56b5deb73f3b132e2bb73.jpg ht
 NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/e20b5fdaf217252964202.jpg")
 MELCOW_PHOTO = environ.get("MELCOW_PHOTO", "https://graph.org/file/56b5deb73f3b132e2bb73.jpg")
 SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/13702ae26fb05df52667c.jpg")
-SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://graph.org/file/2c4da41c6fc94c9b0e9a6-076e4f50a58db79b40.jpg'))
+SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://files.catbox.moe/m58knq.jpg'))
 FSUB_PICS = (environ.get('FSUB_PICS', 'https://graph.org/file/7478ff3eac37f4329c3d8.jpg https://graph.org/file/56b5deb73f3b132e2bb73.jpg')).split()  # Fsub pic
 
 # ============================
@@ -61,7 +61,7 @@ AUTH_CHANNELS = [int(channels_id) for channels_id in environ.get('AUTH_CHANNELS'
 # ============================
 # Payment Configuration
 # ============================
-QR_CODE = environ.get('QR_CODE', 'https://graph.org/file/2c4da41c6fc94c9b0e9a6-076e4f50a58db79b40.jpg')    # QR code image for payments
+QR_CODE = environ.get('QR_CODE', 'https://files.catbox.moe/m58knq.jpg')    # QR code image for payments
 OWNER_UPI_ID = environ.get('OWNER_UPI_ID', '<code>md-muzaffar-imam@axl</code>')    # Owner UPI ID for payments
 
 STAR_PREMIUM_PLANS = {
@@ -98,7 +98,7 @@ ABOVE_PREVIEW = bool(environ.get('ABOVE_PREVIEW', True)) # Shows link preview ab
 IS_VERIFY = is_enabled('IS_VERIFY', True)  # Verification On (True) / Off (False)
 LOG_VR_CHANNEL = int(environ.get('LOG_VR_CHANNEL', '-1002399750144')) #Verification Channel Id 
 LOG_API_CHANNEL = int(environ.get('LOG_API_CHANNEL', '-1002399750144')) #If Anyone Set Your Bot In Any Group And Set Shortner In That Group Then In This Channel The All Details Come
-VERIFY_IMG = environ.get("VERIFY_IMG", "https://graph.org/file/29ad7563ec3c4be99aa8f-fe69b5bbf12d0db62c.jpg")
+VERIFY_IMG = environ.get("VERIFY_IMG", "https://files.catbox.moe/83oivt.jpg")
 
 TUTORIAL = environ.get("TUTORIAL", "https://t.me/MRN_Tutorial/1805")   # Tutorial link for verification
 TUTORIAL_2 = environ.get("TUTORIAL_2", "https://t.me/MRN_Tutorial/1805")   # Second tutorial link for verification
