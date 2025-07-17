@@ -1,15 +1,14 @@
+import re
+import os
 import logging
-from pyrogram.errors import InputUserDeactivated, UserNotParticipant, FloodWait, UserIsBlocked, PeerIdInvalid, ChatAdminRequired
 from info import  *
 from imdb import Cinemagoer 
 import asyncio
 from pyrogram.types import Message, InlineKeyboardButton, InlineKeyboardMarkup
-from pyrogram.errors import FloodWait, UserIsBlocked, MessageNotModified, PeerIdInvalid
+from pyrogram.errors import InputUserDeactivated, UserNotParticipant, FloodWait, UserIsBlocked, PeerIdInvalid, ChatAdminRequired, MessageNotModified
 from pyrogram import enums
 from typing import Union
 from Script import script
-import re
-import os
 from typing import List
 from database.users_chats_db import db
 from bs4 import BeautifulSoup
@@ -638,6 +637,14 @@ def get_readable_time(seconds):
             period_value, seconds = divmod(seconds, period_seconds)
             result.append(f'{int(period_value)}{period_name}')
     return ' '.join(result)  
+
+def generate_season_variations(search_raw: str, season_number: int):
+    return [
+        f"{search_raw} s{season_number:02}",
+        f"{search_raw} season {season_number}",
+        f"{search_raw} season {season_number:02}",
+    ]
+
 
 
 async def get_seconds(time_string):
