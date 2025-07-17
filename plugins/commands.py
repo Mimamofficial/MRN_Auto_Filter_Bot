@@ -259,7 +259,7 @@ async def start(client, message):
                         "कृपया <b>Join Updates Channels</b> बटन पर क्लिक करें और सुनिश्चित करें कि आपने <b>सभी चैनल्स</b> को जॉइन किया है।\n"
                         "इसके बाद, कृपया फिर से प्रयास करें।"
                     )
-                    photo = random.choice(FSUB_PICS) if FSUB_PICS else "https://graph.org/file/7478ff3eac37f4329c3d8.jpg"
+                    photo = random.choice(FSUB_PICS) if FSUB_PICS else "https://files.catbox.moe/mwppxo.jpg"
                     await message.reply_photo(
                         photo=photo,
                         caption=caption,
@@ -1047,7 +1047,7 @@ async def set_tutorial(client, message: Message):
     except IndexError:
         return await message.reply_text(
             f"<b>ᴄᴏᴍᴍᴀɴᴅ ɪɴᴄᴏᴍᴘʟᴇᴛᴇ !!\n\nᴜꜱᴇ ʟɪᴋᴇ ᴛʜɪꜱ -</b>\n\n"
-            f"<code>/{message.command[0]} https://t.me/dreamxbotz</code>"
+            f"<code>/{message.command[0]} https://t.me/MRN_Tutorial</code>"
         )
     if message.command[0] == "set_tutorial":
         tutorial_key = "tutorial"
