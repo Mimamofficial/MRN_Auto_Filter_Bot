@@ -204,7 +204,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/MRN_RIPPER">{file_caption}</a></b>\n\n•─────•─────────•─────•\n<b>✯ 𝖩𝗈𝗂𝗇 ➥ <a https://t.me/MRN_RIPPER>[🍿 @MRN_RIPPER 🍿 ]\n✯ 𝖩𝗈𝗂𝗇 ➥ [🍿 @Movies_Tv_Serial_Request 🍿]\n•─────•─────────•─────•</a></b>"""
+    CAPTION = """<b><a href="https://t.me/MRN_RIPPER">{file_name}</a></b>\n\n•─────•─────────•─────•\n<b>✯ 𝖩𝗈𝗂𝗇 ➥ <a https://t.me/MRN_RIPPER>[🍿 @MRN_RIPPER 🍿 ]\n✯ 𝖩𝗈𝗂𝗇 ➥ [🍿 @Movies_Tv_Serial_Request 🍿]\n•─────•─────────•─────•</a></b>"""
     
     MOVIE_UPDATE_NOTIFY_TXT = """
 </b><a href={poster_url}>📥</a><a href={imdb_url}>New {tag} Added</a></b>
