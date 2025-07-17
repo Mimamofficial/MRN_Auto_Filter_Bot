@@ -48,9 +48,9 @@ LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002338765286'))  # Log channel i
 BIN_CHANNEL = int(environ.get('BIN_CHANNEL', '-1002338765286'))  # Bin channel id (make sure bot is admin)
 PREMIUM_LOGS = int(environ.get('PREMIUM_LOGS', '-1002338765286'))  # Premium logs channel id
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '-1002445547306').split()] #(make sure bot is admin)
-support_chat_id = environ.get('SUPPORT_CHAT_ID', '-1002039764142')  # Support group id (make sure bot is admin)
+support_chat_id = environ.get('SUPPORT_CHAT_ID', '1001837163489')  # Support group id (make sure bot is admin)
 reqst_channel = environ.get('REQST_CHANNEL_ID', '-1002745555397')  # Request channel id (make sure bot is admin)
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/Movies_Tv_Serial_Request')  # Support group link (make sure bot is admin)
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/Tv_Serial_Search_Group')  # Support group link (make sure bot is admin)
 
 # FORCE_SUB 
 auth_req_channel = environ.get('AUTH_REQ_CHANNEL', '-1002232443823')  # requst to join Channel for force sub (make sure bot is admin) only for bot ADMINS  
