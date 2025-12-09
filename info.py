@@ -35,7 +35,7 @@ PICS = (environ.get('PICS', 'https://graph.org/file/56b5deb73f3b132e2bb73.jpg ht
 NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/e20b5fdaf217252964202.jpg")
 MELCOW_PHOTO = environ.get("MELCOW_PHOTO", "https://graph.org/file/56b5deb73f3b132e2bb73.jpg")
 SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/13702ae26fb05df52667c.jpg")
-SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://files.catbox.moe/m58knq.jpg'))
+SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://files.catbox.moe/5ns27j.jpg'))
 FSUB_PICS = (environ.get('FSUB_PICS', 'https://files.catbox.moe/9e29rz.jpg https://files.catbox.moe/mwppxo.jpg')).split()  # Fsub pic
 
 # ============================
@@ -48,13 +48,13 @@ LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002338765286'))  # Log channel i
 BIN_CHANNEL = int(environ.get('BIN_CHANNEL', '-1002338765286'))  # Bin channel id (make sure bot is admin)
 PREMIUM_LOGS = int(environ.get('PREMIUM_LOGS', '-1002338765286'))  # Premium logs channel id
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '-1002445547306').split()] #(make sure bot is admin)
-support_chat_id = environ.get('SUPPORT_CHAT_ID', '-1001837163489')  # Support group id (make sure bot is admin)
+support_chat_id = environ.get('SUPPORT_CHAT_ID', '-1003351490855')  # Support group id (make sure bot is admin)
 reqst_channel = environ.get('REQST_CHANNEL_ID', '-1002745555397')  # Request channel id (make sure bot is admin)
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/Tv_Serial_Search_Group')  # Support group link (make sure bot is admin)
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/+lTO1v9u3v4FhODNl')  # Support group link (make sure bot is admin)
 
 # FORCE_SUB 
 auth_req_channel = environ.get('AUTH_REQ_CHANNEL', '-1002136174732')  # requst to join Channel for force sub (make sure bot is admin) only for bot ADMINS  
-AUTH_CHANNELS = [int(channels_id) for channels_id in environ.get('AUTH_CHANNELS', '-1002745555397 -1002232443823').split() if re.match(r'^-?\d+$', channels_id)]  # Channels for force sub (make sure bot is admin)
+AUTH_CHANNELS = [int(channels_id) for channels_id in environ.get('AUTH_CHANNELS', '-1002745555397 -1002232443823 -1002761395296').split() if re.match(r'^-?\d+$', channels_id)]  # Channels for force sub (make sure bot is admin)
 
 
 
@@ -203,9 +203,9 @@ FQDN = str(getenv('FQDN', BIND_ADRESS)) if not ON_HEROKU or getenv('FQDN') else 
 URL = "https://mrn-auto-filter-bot-d5869d42.koyeb.app/".format(FQDN) if ON_HEROKU or NO_PORT else "https://mrn-auto-filter-bot-d5869d42.koyeb.app/".format(FQDN, PORT)
 SLEEP_THRESHOLD = int(environ.get('SLEEP_THRESHOLD', '60'))
 WORKERS = int(environ.get('WORKERS', '4'))
-SESSION_NAME = str(environ.get('SESSION_NAME', 'MRN RIPPER'))
+SESSION_NAME = str(environ.get('SESSION_NAME', 'Mrn_Officialx'))
 MULTI_CLIENT = False
-name = str(environ.get('name', 'MRN RIPPER'))
+name = str(environ.get('name', 'Mrn_Officialx'))
 PING_INTERVAL = int(environ.get("PING_INTERVAL", "1200"))  # 20 minutes
 if 'DYNO' in environ:
     ON_HEROKU = True
