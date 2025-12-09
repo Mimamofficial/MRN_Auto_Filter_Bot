@@ -275,7 +275,7 @@ ShemarooMe, EpicOn Etc. all OTT Movies and Webseries available
 
 ⚡️Grab It Fast ASAP😘 [💯Trusted]
 •─────•─────────•─────•
-💰ᴜᴘɪ ɪᴅ ➢ <code>md-muzaffar-imam@axl</code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
+💰ᴜᴘɪ ɪᴅ ➢ <code>Mrn-Officialx@axl</code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
 
 ‼️ ᴍᴜꜱᴛ ꜱᴇɴᴅ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ᴀꜰᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.
 ‼️ ᴀꜰᴛᴇʀ ꜱᴇɴᴅɪɴɢ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ɢɪᴠᴇ ᴜꜱ ꜱᴏᴍᴇᴛɪᴍᴇꜱ ᴛᴏ ᴀᴅᴅ ʏᴏᴜ ɪɴ ᴘʀᴇᴍɪᴜᴍ ʟɪꜱᴛ.</b>"""
@@ -293,7 +293,7 @@ ShemarooMe, EpicOn Etc. all OTT Movies and Webseries available
 
 ʏᴏᴜ ᴄᴀɴ ᴘᴜʀᴄʜᴀꜱᴇ ᴘʀᴇᴍɪᴜᴍ ᴛʜʀᴏᴜɢʜ ᴜᴘɪ , ɴᴇᴛ ʙᴀɴᴋɪɴɢ.
 
-💳 ᴜᴘɪ ɪᴅ - <code>{md-muzaffar-imam@axl}</code>
+💳 ᴜᴘɪ ɪᴅ - <code>{Mrn-Officialx@axl}</code>
 
 💢 ᴍᴜꜱᴛ ꜱᴇɴᴅ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ᴀꜰᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.
 
@@ -333,8 +333,8 @@ ShemarooMe, EpicOn Etc. all OTT Movies and Webseries available
 
 🏷️ <b>ᴘᴀʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅꜱ</b>
 
-💸 ᴜᴘɪ ɪᴅ → <code>{md-muzaffar-imam@axl}</code>  
-📷 ǫʀ ᴄᴏᴅᴇ → <a href='{https://files.catbox.moe/m58knq.jpg}'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>  
+💸 ᴜᴘɪ ɪᴅ → <code>{Mrn-Officialx@axl}</code>  
+📷 ǫʀ ᴄᴏᴅᴇ → <a href='{https://files.catbox.moe/5ns27j.jpg}'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>  
 
 🧾 ᴘᴀʏ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ!
 
@@ -363,7 +363,7 @@ ShemarooMe, EpicOn Etc. all OTT Movies and Webseries available
     
  ᴘᴀʏ ᴀᴍᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ !
 
-💵 ᴜᴘɪ ɪᴅ - <code>{md-muzaffar-imam@axl}</code>
+💵 ᴜᴘɪ ɪᴅ - <code>{Mrn-Officialx@axl}</code>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
 
@@ -371,7 +371,7 @@ ShemarooMe, EpicOn Etc. all OTT Movies and Webseries available
     
  ᴘᴀʏ ᴀᴍᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ !
 
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='{https://files.catbox.moe/m58knq.jpg}'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='{https://files.catbox.moe/5ns27j.jpg}'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
 
