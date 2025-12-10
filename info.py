@@ -100,19 +100,19 @@ LOG_VR_CHANNEL = int(environ.get('LOG_VR_CHANNEL', '-1002399750144')) #Verificat
 LOG_API_CHANNEL = int(environ.get('LOG_API_CHANNEL', '-1002399750144')) #If Anyone Set Your Bot In Any Group And Set Shortner In That Group Then In This Channel The All Details Come
 VERIFY_IMG = environ.get("VERIFY_IMG", "https://files.catbox.moe/83oivt.jpg")
 
-TUTORIAL = environ.get("TUTORIAL", "https://t.me/MRN_Tutorial/1805")   # Tutorial link for verification
+TUTORIAL = environ.get("TUTORIAL", "https://t.me/MRN_Tutorial/1814")   # Tutorial link for verification
 TUTORIAL_2 = environ.get("TUTORIAL_2", "https://t.me/MRN_Tutorial/1805")   # Second tutorial link for verification
-TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/MRN_Tutorial/1805")   # Third tutorial link for verification
+TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/MRN_Tutorial/1814")   # Third tutorial link for verification
 
 # Verification (Must Fill All Veriables. Else You Got Error
-SHORTENER_API = environ.get("SHORTENER_API", "f2566f9573335044e60a2d14d537931e0a9ecd8d") # Shortener API key
-SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "papajiurl.com") # Shortener website
+SHORTENER_API = environ.get("SHORTENER_API", "1b8e94e97189da28b35fcab06c0850bd92569751") # Shortener API key
+SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "arolinks.com") # Shortener website
 
 SHORTENER_API2 = environ.get("SHORTENER_API2", "f2566f9573335044e60a2d14d537931e0a9ecd8d")  # Shortener API key for second website
 SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", "papajiurl.com") # Shortener website for second website
 
-SHORTENER_API3 = environ.get("SHORTENER_API3", "f2566f9573335044e60a2d14d537931e0a9ecd8d")  
-SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", "papajiurl.com") # Shortener website for third website
+SHORTENER_API3 = environ.get("SHORTENER_API3", "1b8e94e97189da28b35fcab06c0850bd92569751")  
+SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", "arolinks.com") # Shortener website for third website
 
 TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "43200")) # Time gap for two-step verification in seconds (default: 20 minutes)
 THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "43200"))    
