@@ -204,7 +204,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/Mrn_Officialx">{file_name}</a></b>\n<b>•─────•─────────•─────•\n✯ MRN Uploaded ➥ @Mrn_Officialx\n✯ Chat Group ➥ @MRN_Chat_Group\n•─────•─────────•─────•</a></b>""" 
+    CAPTION = """<b><a href="https://t.me/Mrn_Officialx">{file_name}</a></b>\n<b>➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖\n🔰 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ @Mrn_Officialx\n👑 ᴘʀᴇᴍɪᴜᴍ ᴀᴄᴄᴇꜱꜱ ➥ @Mimam_Officialx</b>""" 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
 </b><a href={poster_url}>📥</a><a href={imdb_url}>New {tag} Added</a></b>
